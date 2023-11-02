@@ -1,4 +1,4 @@
-package com.correa.springsecurity;
+package com.correa.springsecurity.controller;
 
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.GetMapping;
